@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clubs>
+    <club id='1'>
+        <teamName>Aberdeen FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1903</formed>
+        <stadiumName>Pittodrie Stadium</stadiumName>
+        <address>Pittodrie Street</address>
+        <postCode>AB24 5QH</postCode>
+        <city>Aberdeen</city>
+        <smalllogo>aberdeensmall.jpg</smalllogo>
+        <largelogo>aberdeenlarge.jpg</largelogo>
+        <coord lat='57.159835' lon='-2.087685'/>
+        <website>http://www.afc.co.uk/page/Welcome</website>
+    </club>
+    <club id='2'>
+        <teamName>Glasgow Celtic FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1888</formed>
+        <stadiumName>Celtic Park</stadiumName>
+        <address>Kerrydale Street</address>
+        <postCode>G40 3RE</postCode>
+        <city>Glasgow</city>
+        <smalllogo>celticsmall.jpg</smalllogo>
+        <largelogo>celticlarge.jpg</largelogo>
+        <coord lat='55.848349' lon='-4.206990' />
+        <website>http://www.celticfc.net</website>
+    </club>
+    <club id='3'>
+        <teamName>Partick Thistle FC</teamName>
+        <league logo='spfl.jpg'>Scottish Championship</league>
+        <formed>1876</formed>
+        <stadiumName>Firhill Stadium</stadiumName>
+        <address>Firhill Road</address>
+        <postCode>G20 7AL</postCode>
+        <city>Glasgow</city>
+        <smalllogo>particksmall.jpg</smalllogo>
+        <largelogo>particklarge.jpg</largelogo>
+        <coord lat='55.882228' lon='-4.271146' />
+        <website>http://www.ptfc.co.uk/</website>
+    </club>
+    <club id='5'>
+        <teamName>Heart Of Midlothian FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1874</formed>
+        <stadiumName>Tynecastle Stadium</stadiumName>
+        <address>McLeod Street</address>
+        <postCode>EH11 2NL</postCode>
+        <city>Edinburgh</city>
+        <smalllogo>heartssmall.jpg</smalllogo>
+        <largelogo>heartslarge.jpg</largelogo>
+        <coord lat='55.939101' lon='-3.230436' />
+        <website>http://www.heartsfc.co.uk/page/Welcome</website>
+    </club>
+    <club id='7'>
+        <teamName>Inverness CT FC</teamName>
+        <league logo='spfl.jpg'>Scottish Championship</league>
+        <formed>1994</formed>
+        <stadiumName>Tulloch Caledonian Stadium</stadiumName>
+        <address>Longman Drive</address>
+        <postCode>IV1 1FF</postCode>
+        <city>Inverness</city>
+        <smalllogo>invernesssmall.jpg</smalllogo>
+        <largelogo>invernesslarge.jpg</largelogo>
+        <coord lat='57.495298' lon='-4.214995' />
+        <website>http://ictfc.com/</website>
+    </club>
+    <club id='8'>
+        <teamName>Kilmarnock FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1869</formed>
+        <stadiumName>Rugby Park</stadiumName>
+        <address>Rugby Road</address>
+        <postCode>KA1 2DP</postCode>
+        <city>Kilmarnock</city>
+        <smalllogo>killiesmall.jpg</smalllogo>
+        <largelogo>killielarge.jpg</largelogo>
+        <coord lat='55.605515' lon='-4.507339' />
+        <website>http://www.kilmarnockfc.co.uk/page/Welcome</website>
+    </club>
+    <club id='9'>
+        <teamName>Motherwell FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1886</formed>
+        <stadiumName>Fir Park</stadiumName>
+        <address>Fir Park Street</address>
+        <postCode>ML1 2QN</postCode>
+        <city>Motherwell</city>
+        <smalllogo>wellsmall.jpg</smalllogo>
+        <largelogo>welllarge.jpg</largelogo>
+        <coord lat='55.780933' lon='-3.981369' />
+        <website>http://www.motherwellfc.co.uk/</website>
+    </club>
+    <club id='10'>
+        <teamName>Ross County FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1929</formed>
+        <stadiumName>Jubilee Park</stadiumName>
+        <address>Jubilee Park Road</address>
+        <postCode>IV15 9QZ</postCode>
+        <city>Dingwall</city>
+        <smalllogo>rosssmall.jpg</smalllogo>
+        <largelogo>rosslarge.jpg</largelogo>
+        <coord lat='57.596543' lon='-4.419702' />
+        <website>http://www.rosscountyfootballclub.co.uk/</website>
+    </club>
+    <club id='11'>
+        <teamName>St Johnstone FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1884</formed>
+        <stadiumName>McDiarmid Park</stadiumName>
+        <address>Crieff Road</address>
+        <postCode>PH1 2SJ</postCode>
+        <city>Perth</city>
+        <smalllogo>sjsmall.jpg</smalllogo>
+        <largelogo>sjlarge.jpg</largelogo>
+        <coord lat='56.407423' lon='-3.475981' />
+        <website>http://www.perthstjohnstonefc.co.uk//</website>
+    </club>
+    <club id='15'>
+        <teamName>Dundee FC</teamName>
+        <league logo='spfl.jpg'>Scottish Championship</league>
+        <formed>1893</formed>
+        <stadiumName>Dens Park</stadiumName>
+        <address>Dens Road</address>
+        <postCode>DD3 7</postCode>
+        <city>Dundee</city>
+        <smalllogo>dundeesmall.jpg</smalllogo>
+        <largelogo>dundeelarge.jpg</largelogo>
+        <coord lat='56.473984' lon='-2.974739' />
+        <website>http://www.dundeefc.co.uk/home/</website>
+    </club>
+    <club id='20'>
+        <teamName>Hamilton Academical FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1874</formed>
+        <stadiumName>New Douglas Park</stadiumName>
+        <address>Cadzow Avenue</address>
+        <postCode>ML3 0FT</postCode>
+        <city>Hamilton</city>
+        <smalllogo>acciessmall.jpg</smalllogo>
+        <largelogo>accieslarge.jpg</largelogo>
+        <coord lat='55.783180' lon='-4.058066' />
+        <website>http://www.acciesfc.co.uk/</website>
+    </club>
+    <club id='24'>
+        <teamName>Rangers FC</teamName>
+        <league logo='spfl.jpg'>Scottish Professional Football League</league>
+        <formed>1872</formed>
+        <stadiumName>Ibrox Stadium</stadiumName>
+        <address>Edmiston Drive</address>
+        <postCode>G51 2XD</postCode>
+        <city>Glasgow</city>
+        <smalllogo>rangerssmall.jpg</smalllogo>
+        <largelogo>rangerslarge.jpg</largelogo>
+        <coord lat='55.852229' lon='-4.308562' />
+        <website>http://www.rangers.co.uk/</website>
+    </club>
+    <!-- Scottish Championship -->
+    <club id='6'>
+        <teamName>Hibernian FC</teamName>
+        <league logo='schamp.jpg'>Scottish Professional Football League</league>
+        <formed>1875</formed>
+        <stadiumName>Easter Road Stadium</stadiumName>
+        <address>12 Albion Place</address>
+        <postCode>EH7 5QG</postCode>
+        <city>Edinburgh</city>
+        <smalllogo>hibssmall.jpg</smalllogo>
+        <largelogo>hibslarge.jpg</largelogo>
+        <coord lat='55.962057' lon='-3.166838' />
+        <website>http://www.hibernianfc.co.uk</website>
+    </club>
+    <club id='12'>
+        <teamName>St Mirren FC</teamName>
+        <league logo='schamp.jpg'>Scottish Professional Football League</league>
+        <formed>1877</formed>
+        <stadiumName>St Mirren Park</stadiumName>
+        <address>Greenhill Road</address>
+        <postCode>PA3 1RU</postCode>
+        <city>Paisley</city>
+        <smalllogo>stmirrensmall.jpg</smalllogo>
+        <largelogo>stmirrenlarge.jpg</largelogo>
+        <coord lat='55.850898' lon='-4.443268' />
+        <website>http://www.saintmirren.net/pages/</website>
+    </club>
+    <club id='4'>
+        <teamName>Dundee United FC</teamName>
+        <league logo='schamp.jpg'>Scottish Championship</league>
+        <formed>1909</formed>
+        <stadiumName>Tannadice Park</stadiumName>
+        <address>Tannadice Street</address>
+        <postCode>DD3 7JW</postCode>
+        <city>Dundee</city>
+        <smalllogo>dufcsmall.jpg</smalllogo>
+        <largelogo>dufclarge.jpg</largelogo>
+        <coord lat='56.474556' lon='-2.970236' />
+        <website>http://www.dundeeunitedfc.co.uk/</website>
+    </club>
+    <club id='16'>
+        <teamName>Dumbarton FC</teamName>
+        <league logo='schamp.jpg'>Scottish League One</league>
+        <formed>1872</formed>
+        <stadiumName>Strathclyde Homes Stadium</stadiumName>
+        <address>Castle Road</address>
+        <postCode>G82 1JJ</postCode>
+        <city>Dumbarton</city>
+        <smalllogo>sonssmall.jpg</smalllogo>
+        <largelogo>sonslarge.jpg</largelogo>
+        <coord lat='55.937414' lon='-4.560457' />
+        <website>http://www.dumbartonfootballclub.com/</website>
+    </club>
+    <club id='17'>
+        <teamName>Queen Of The South FC</teamName>
+        <league logo='schamp.jpg'>Scottish Championship</league>
+        <formed>1919</formed>
+        <stadiumName>Palmerston Park</stadiumName>
+        <address>Terregles Street</address>
+        <postCode>DG2 9BA</postCode>
+        <city>Dumfries</city>
+        <smalllogo>qossmall.jpg</smalllogo>
+        <largelogo>qoslarge.jpg</largelogo>
+        <coord lat='55.069575' lon='-3.622859' />
+        <website>http://www.qosfc.com/</website>
+    </club>
+    <club id='18'>
+        <teamName>Falkirk FC</teamName>
+        <league logo='schamp.jpg'>Scottish League One</league>
+        <formed>1876</formed>
+        <stadiumName>The Falkirk Stadium</stadiumName>
+        <address>Falkirk Road</address>
+        <postCode>FK2 9DX</postCode>
+        <city>Falkirk</city>
+        <smalllogo>falkirksmall.jpg</smalllogo>
+        <largelogo>falkirklarge.jpg</largelogo>
+        <coord lat='56.006766' lon='-3.755032' />
+        <website>http://www.falkirkfc.co.uk/</website>
+    </club>
+    <club id='19'>
+        <teamName>Greenock Morton</teamName>
+        <league logo='schamp.jpg'>Scottish Championship</league>
+        <formed>1874</formed>
+        <stadiumName>Cappielow Park</stadiumName>
+        <address>Sinclair Street</address>
+        <postCode>PA15 2TY</postCode>
+        <city>Greenock</city>
+        <smalllogo>mortonsmall.jpg</smalllogo>
+        <largelogo>mortonlarge.jpg</largelogo>
+        <coord lat='55.941140' lon='-4.725964' />
+        <website>http://www.gmfc.net/</website>
+    </club>
+    <club id='22'>
+        <teamName>Raith Rovers FC</teamName>
+        <league logo='schamp.jpg'>Scottish League One</league>
+        <formed>1883</formed>
+        <stadiumName>Stark's Park</stadiumName>
+        <address>Pratt Street</address>
+        <postCode>KY1 1SA</postCode>
+        <city>Kirkcaldy</city>
+        <smalllogo>raithsmall.jpg</smalllogo>
+        <largelogo>raithlarge.jpg</largelogo>
+        <coord lat='56.100327' lon='-3.167883' />
+        <website>http://www.raithrovers.net/</website>
+    </club>
+    <club id='27'>
+        <teamName>Ayr United FC</teamName>
+        <league logo='schamp.jpg'>Scottish Championship</league>
+        <formed>1910</formed>
+        <stadiumName>Somerset Park</stadiumName>
+        <address>Tryfield Place</address>
+        <postCode>KA8 9NB</postCode>
+        <city>Ayr</city>
+        <smalllogo>ayrsmall.jpg</smalllogo>
+        <largelogo>ayrlarge.jpg</largelogo>
+        <coord lat='55.469088' lon='-4.619532' />
+        <website>http://www.ayrunitedfc.co.uk//</website>
+    </club>
+    <club id='25'>
+        <teamName>Dunfermline Athletic FC</teamName>
+        <league logo='schamp.jpg'>Scottish Championship</league>
+        <formed>1885</formed>
+        <stadiumName>East End Park</stadiumName>
+        <address>Halbeath Road</address>
+        <postCode> KY12 7RB</postCode>
+        <city>Dunfermline</city>
+        <smalllogo>parssmall.jpg</smalllogo>
+        <largelogo>parslarge.jpg</largelogo>
+        <coord lat='56.075274' lon='-3.440843' />
+        <website>http://www.dafc.co.uk/</website>
+    </club>
+    <!-- Scottish League One -->
+    <club id='21'>
+        <teamName>Livingston FC</teamName>
+        <league logo='sl1.jpg'>Scottish Professional Football League</league>
+        <formed>1974</formed>
+        <stadiumName>The Braidwood Motor Company Stadium</stadiumName>
+        <address>Alderstone Road</address>
+        <postCode>EH54 7DN</postCode>
+        <city>Livingston</city>
+        <smalllogo>livismall.jpg</smalllogo>
+        <largelogo>livilarge.jpg</largelogo>
+        <coord lat='55.886672' lon='-3.525349' />
+        <website>http://www.livingstonfc.co.uk/</website>
+    </club>
+    <club id='13'>
+        <teamName>Alloa Athletic FC</teamName>
+        <league logo='sl1.jpg'>Scottish Championship</league>
+        <formed>1883</formed>
+        <stadiumName>Recreation Park</stadiumName>
+        <address>Clackmannan Road</address>
+        <postCode> FK10 1RY</postCode>
+        <city>Alloa</city>
+        <smalllogo>alloasmall.jpg</smalllogo>
+        <largelogo>alloalarge.jpg</largelogo>
+        <coord lat='56.116164' lon='-3.779725' />
+        <website>http://www.alloaathletic.co.uk</website>
+    </club>
+    <club id='23'>
+        <teamName>Airdrie United FC</teamName>
+        <league logo='sl1.jpg'>Scottish League One</league>
+        <formed>1965</formed>
+        <stadiumName>Excelsior Stadium</stadiumName>
+        <address>Craigneuk Avenue</address>
+        <postCode>ML6 8QZ</postCode>
+        <city>Airdrie</city>
+        <smalllogo>airdriesmall.jpg</smalllogo>
+        <largelogo>airdrielarge.jpg</largelogo>
+        <coord lat='55.860766' lon='-3.961413' />
+        <website>http://www.airdriefc.com</website>
+    </club>
+    <club id='28'>
+        <teamName>Brechin City FC</teamName>
+        <league logo='sl1.jpg'>Scottish League Two</league>
+        <formed>1906</formed>
+        <stadiumName>Glebe Park</stadiumName>
+        <address>Trinity Road</address>
+        <postCode>DD9 6BJ</postCode>
+        <city>Brechin</city>
+        <smalllogo>brechinsmall.jpg</smalllogo>
+        <largelogo>brechinlarge.jpg</largelogo>
+        <coord lat='56.736539' lon='-2.658481' />
+        <website>http://www.brechincity.com/</website>
+    </club>
+    <club id='29'>
+        <teamName>East Fife FC</teamName>
+        <league logo='sl1.jpg'>Scottish League One</league>
+        <formed>1903</formed>
+        <stadiumName>New Bayview Stadium</stadiumName>
+        <address>Harbour View</address>
+        <postCode>KY8 3RW</postCode>
+        <city>Methil</city>
+        <smalllogo>efsmall.jpg</smalllogo>
+        <largelogo>eflarge.jpg</largelogo>
+        <coord lat='56.188777' lon='-3.001285' />
+        <website>http://www.eastfifefc.info/</website>
+    </club>
+    <club id='31'>
+        <teamName>Stenhousmuir FC</teamName>
+        <league logo='sl1.jpg'>Scottish League Two</league>
+        <formed>1884</formed>
+        <stadiumName>Ochilview Park</stadiumName>
+        <address>Gladstone Road</address>
+        <postCode>FK5 4QL</postCode>
+        <city>Stenhousemuir</city>
+        <smalllogo>stenssmall.jpg</smalllogo>
+        <largelogo>stenslarge.jpg</largelogo>
+        <coord lat='56.027577' lon='-3.815351' />
+        <website>http://www.stenhousemuirfc.com/</website>
+    </club>
+    <club id='32'>
+        <teamName>Stranraer FC</teamName>
+        <league logo='sl1.jpg'>Scottish League One</league>
+        <formed>1870</formed>
+        <stadiumName>Stair Park</stadiumName>
+        <address>London Road</address>
+        <postCode>DG9 8BS</postCode>
+        <city>Stranraer</city>
+        <smalllogo>stranraersmall.jpg</smalllogo>
+        <largelogo>stranraerlarge.jpg</largelogo>
+        <coord lat='54.903603' lon='-5.013641' />
+        <website>http://www.stranraerfc.org/</website>
+    </club>
+    <club id='39'>
+        <teamName>Peterhead FC</teamName>
+        <league logo='sl1.jpg'>Scottish League One</league>
+        <formed>1891</formed>
+        <stadiumName>Balmoor Stadium</stadiumName>
+        <address>Balmoor Terrace</address>
+        <postCode>AB42 1EU</postCode>
+        <city>Peterhead</city>
+        <smalllogo>petersmall.jpg</smalllogo>
+        <largelogo>peterlarge.jpg</largelogo>
+        <coord lat='57.512058' lon='-1.796944' />
+        <website>http://www.peterheadfc.co.uk/</website>
+    </club>
+    <club id='40'>
+        <teamName>Queens Park FC</teamName>
+        <league logo='sl1.jpg'>Scottish League Two</league>
+        <formed>1867</formed>
+        <stadiumName>Hampden Park</stadiumName>
+        <address>Aitkenhead Road</address>
+        <postCode>G42 9BA</postCode>
+        <city>Glasgow</city>
+        <smalllogo>qpsmall.jpg</smalllogo>
+        <largelogo>qplarge.jpg</largelogo>
+        <coord lat='55.826074' lon='-4.246909' />
+        <website>http://www.queensparkfc.co.uk/</website>
+    </club>
+    <club id='41'>
+        <teamName>Albion Rovers FC</teamName>
+        <league logo='sl1.jpg'>Scottish League Two</league>
+        <formed>1882</formed>
+        <stadiumName>Cliftonhill Stadium</stadiumName>
+        <address>Main Street</address>
+        <postCode>ML5 3RB</postCode>
+        <city>Coatbridge</city>
+        <smalllogo>albionroverssmall.jpg</smalllogo>
+        <largelogo>albionroverslarge.jpg</largelogo>
+        <coord lat='55.859619' lon='-4.011838' />
+        <website>http://albionroversfc.com</website>
+    </club>
+    <!-- Scottish League Two -->
+    <club id='26'>
+        <teamName>Arbroath FC</teamName>
+        <league logo='sl2.jpg'>Scottish Championship</league>
+        <formed>1878</formed>
+        <stadiumName>Gayfield Park</stadiumName>
+        <address>Queens Drive</address>
+        <postCode>DD11 1</postCode>
+        <city>Arbroath</city>
+        <smalllogo>arbroathsmall.jpg</smalllogo>
+        <largelogo>arbroathlarge.jpg</largelogo>
+        <coord lat='56.552302' lon='-2.593256' />
+        <website>http://www.arbroathfc.co.uk/</website>
+    </club>
+    <club id='30'>
+        <teamName>Forfar Athletic FC</teamName>
+        <league logo='sl2.jpg'>Scottish League One</league>
+        <formed>1884</formed>
+        <stadiumName>Station Park</stadiumName>
+        <address>Carseview Road</address>
+        <postCode>DD8 3BT</postCode>
+        <city>Forfar</city>
+        <smalllogo>forfarsmall.jpg</smalllogo>
+        <largelogo>forfarlarge.jpg</largelogo>
+        <coord lat='56.652110' lon='-2.883731' />
+        <website>http://www.forfarathletic.co.uk/</website>
+    </club>
+    <club id='14'>
+        <teamName>Cowdenbeath FC</teamName>
+        <league logo='sl2.jpg'>Scottish League Two</league>
+        <formed>1881</formed>
+        <stadiumName>Central Park</stadiumName>
+        <address>Pitt Road</address>
+        <postCode>KY4 9PG</postCode>
+        <city>Cowdenbeath</city>
+        <smalllogo>cowdensmall.jpg</smalllogo>
+        <largelogo>cowdenlarge.jpg</largelogo>
+        <coord lat='56.109712' lon='-3.345012' />
+        <website>http://www.cowdenbeathfc.com</website>
+    </club>
+    <club id='33'>
+        <teamName>Annan Athletic FC</teamName>
+        <league logo='sl2.jpg'>Scottish League Two</league>
+        <formed>1942</formed>
+        <stadiumName>Galabank</stadiumName>
+        <address>North Street</address>
+        <postCode>DG12 5DQ</postCode>
+        <city>Annan</city>
+        <smalllogo>annansmall.jpg</smalllogo>
+        <largelogo>annanlarge.jpg</largelogo>
+        <coord lat='54.994420' lon='-3.260917' />
+        <website>http://www.annanathleticfc.com</website>
+    </club>
+    <club id='34'>
+        <teamName>Cove Rangers FC</teamName>
+        <league logo='sl2.jpg'>Scottish League Two</league>
+        <formed>1922</formed>
+        <stadiumName>Balmoral Stadium</stadiumName>
+        <address>Wellington Circle, Altens</address>
+        <postCode>AB12 3JG</postCode>
+        <city>Aberdeen</city>
+        <smalllogo>covelarge.png</smalllogo>
+        <largelogo>covelarge.png</largelogo>
+        <coord lat='57.111893' lon='-2.095988' />
+        <website>http://http://www.coverangersfc.com/</website>
+    </club>
+    <club id='35'>
+        <teamName>Clyde FC</teamName>
+        <league logo='sl2.jpg'>Scottish League One</league>
+        <formed>1877</formed>
+        <stadiumName>Broadwood Stadium</stadiumName>
+        <address>Ardgoil Drive</address>
+        <postCode>G68 9NE</postCode>
+        <city>Cumbernauld</city>
+        <smalllogo>clydesmall.jpg</smalllogo>
+        <largelogo>clydelarge.jpg</largelogo>
+        <coord lat='55.944822' lon='-4.035632' />
+        <website>http://www.clydefc.co.uk/</website>
+    </club>
+    <club id='36'>
+        <teamName>Edinburgh City FC</teamName>
+        <league logo='sl2.jpg'>Scottish League Two</league>
+        <formed>1928</formed>
+        <stadiumName>Meadowbank Stadium</stadiumName>
+        <address>London Road</address>
+        <postCode>EH7 6AE</postCode>
+        <city>Edinburgh</city>
+        <smalllogo>ecitylogo.png</smalllogo>
+        <largelogo>ecitylogo.png</largelogo>
+        <coord lat='55.956214' lon='-3.160181' />
+        <website>http://www.edinburghcityfc.com/</website>
+    </club>
+    <club id='37'>
+        <teamName>Elgin City FC</teamName>
+        <league logo='sl2.jpg'>Scottish League Two</league>
+        <formed>1893</formed>
+        <stadiumName>Borough Briggs</stadiumName>
+        <address>Borough Briggs Road</address>
+        <postCode>IV30 1AP</postCode>
+        <city>Elgin</city>
+        <smalllogo>elginsmall.jpg</smalllogo>
+        <largelogo>elginlarge.jpg</largelogo>
+        <coord lat='57.651386' lon='-3.320275' />
+        <website>http://www.elgincity.com/</website>
+    </club>
+    <club id='38'>
+        <teamName>Montrose FC</teamName>
+        <league logo='sl2.jpg'>Scottish League One</league>
+        <formed>1879</formed>
+        <stadiumName>Links Park Stadium</stadiumName>
+        <address>Wellington Street</address>
+        <postCode>DD10 8QD</postCode>
+        <city>Montrose</city>
+        <smalllogo>montrosesmall.jpg</smalllogo>
+        <largelogo>montroselarge.jpg</largelogo>
+        <coord lat='56.713918' lon='-2.460690' />
+        <website>http://www.montrosefc.co.uk/</website>
+    </club>
+    <club id='42'>
+        <teamName>Stirling Albion FC</teamName>
+        <league logo='sl2.jpg'>Scottish League Two</league>
+        <formed>1945</formed>
+        <stadiumName>Forthbank Stadium</stadiumName>
+        <address>Forthside Way</address>
+        <postCode>FK7 7UJ</postCode>
+        <city>Stirling</city>
+        <smalllogo>stirlingsmall.jpg</smalllogo>
+        <largelogo>stirlinglarge.jpg</largelogo>
+        <coord lat='56.118328' lon='-3.913220' />
+        <website>http://www.stirlingalbionfc.co.uk/</website>
+    </club>
+    <!-- Barclays Premier League -->
+    <club id='43'>
+        <teamName>Arsenal FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1886</formed>
+        <stadiumName>Emirates Stadium</stadiumName>
+        <address>Drayton Park</address>
+        <postCode>N5 1BU</postCode>
+        <city>London</city>
+        <smalllogo>arsenalsmall.jpg</smalllogo>
+        <largelogo>arsenallarge.jpg</largelogo>
+        <coord lat='51.553352' lon='-0.105232' />
+        <website>http://www.arsenal.com/home</website>
+    </club>
+    <club id='45'>
+        <teamName>Chelsea FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1905</formed>
+        <stadiumName>Stamford Bridge</stadiumName>
+        <address>Fulham Road</address>
+        <postCode>SW6 1HS</postCode>
+        <city>London</city>
+        <smalllogo>chelseasmall.jpg</smalllogo>
+        <largelogo>chelsealarge.jpg</largelogo>
+        <coord lat='51.480448' lon='-0.188994' />
+        <website>http://www.chelseafc.com/</website>
+    </club>
+    <club id='46'>
+        <teamName>Everton FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1878</formed>
+        <stadiumName>Goodison Park</stadiumName>
+        <address>Goodison Road</address>
+        <postCode>L4 4EL</postCode>
+        <city>Liverpool</city>
+        <smalllogo>evertonsmall.jpg</smalllogo>
+        <largelogo>evertonlarge.jpg</largelogo>
+        <coord lat='53.437860' lon='-2.967639' />
+        <website>http://www.evertonfc.com/</website>
+    </club>
+    <club id='48'>
+        <teamName>Liverpool FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1892</formed>
+        <stadiumName>Anfield</stadiumName>
+        <address>Anfield Road</address>
+        <postCode>L4 0TH</postCode>
+        <city>Liverpool</city>
+        <smalllogo>liversmall.jpg</smalllogo>
+        <largelogo>liverlarge.jpg</largelogo>
+        <coord lat='53.431914' lon='-2.961084' />
+        <website>http://Stadium_Finder.Assets.lfcStadium_Finder.Assets.com/</website>
+    </club>
+    <club id='49'>
+        <teamName>Manchester City FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1880</formed>
+        <stadiumName>Etihad Stadium</stadiumName>
+        <address>Etihad Campus</address>
+        <postCode>M11 3FF</postCode>
+        <city>Manchester</city>
+        <smalllogo>mancitysmall.jpg</smalllogo>
+        <largelogo>mancitylarge.jpg</largelogo>
+        <coord lat='53.481791' lon='-2.203417' />
+        <website>http://www.mcfc.co.uk/</website>
+    </club>
+    <club id='50'>
+        <teamName>Manchester United FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1878</formed>
+        <stadiumName>Old Trafford</stadiumName>
+        <address>Sir Matt Busby Way</address>
+        <postCode>M16 0RA</postCode>
+        <city>Manchester</city>
+        <smalllogo>manutdsmall.jpg</smalllogo>
+        <largelogo>manutdlarge.jpg</largelogo>
+        <coord lat='53.463748' lon='-2.289406' />
+        <website>http://www.manutd.com/</website>
+    </club>
+    <club id='53'>
+        <teamName>Southampton FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1885</formed>
+        <stadiumName>St. Mary's Stadium</stadiumName>
+        <address>Britannia Road</address>
+        <postCode>SO14 5FP</postCode>
+        <city>Southampton</city>
+        <smalllogo>saintssmall.jpg</smalllogo>
+        <largelogo>saintslarge.jpg</largelogo>
+        <coord lat='50.906642' lon='-1.389697' />
+        <website>http://www.saintsfc.co.uk/</website>
+    </club>
+    <club id='54'>
+        <teamName>Stoke City FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet Championship</league>
+        <formed>1863</formed>
+        <stadiumName>Britannia Stadium</stadiumName>
+        <address>Stanley Matthews Way</address>
+        <postCode>ST4 4EG</postCode>
+        <city>Stoke-on-Trent</city>
+        <smalllogo>stokesmall.jpg</smalllogo>
+        <largelogo>stokelarge.jpg</largelogo>
+        <coord lat='52.988045' lon='-2.173400' />
+        <website>http://www.stokecityfc.com/</website>
+    </club>
+    <club id='55'>
+        <teamName>Sunderland Athletic FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet League 1</league>
+        <formed>1879</formed>
+        <stadiumName>Stadium of Light</stadiumName>
+        <address>Stadium Way</address>
+        <postCode>SR5 1SU</postCode>
+        <city>Sunderland</city>
+        <smalllogo>sundsmall.jpg</smalllogo>
+        <largelogo>sundlarge.jpg</largelogo>
+        <coord lat='54.914987' lon='-1.385755' />
+        <website>http://www.safc.com/</website>
+    </club>
+    <club id='56'>
+        <teamName>Swansea City FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet Championship</league>
+        <formed>1912</formed>
+        <stadiumName>Liberty Stadium</stadiumName>
+        <address>Brunel Way</address>
+        <postCode>SA1 2FA</postCode>
+        <city>Swansea</city>
+        <smalllogo>swanssmall.jpg</smalllogo>
+        <largelogo>swanslarge.jpg</largelogo>
+        <coord lat='51.641457' lon='-3.933844' />
+        <website>http://www.swanseacity.net/</website>
+    </club>
+    <club id='57'>
+        <teamName>Tottenham Hotspur FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1882</formed>
+        <stadiumName>White Hart Lane</stadiumName>
+        <address>Bill Nicholson Way</address>
+        <postCode>N17 0AP</postCode>
+        <city>London</city>
+        <smalllogo>thsmall.jpg</smalllogo>
+        <largelogo>thlarge.jpg</largelogo>
+        <coord lat='51.603237' lon='-0.067586' />
+        <website>http://www.tottenhamhotspur.com/</website>
+    </club>
+    <club id='58'>
+        <teamName>West Bromwich Albion FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet Championship</league>
+        <formed>1878</formed>
+        <stadiumName>The Hawthorns</stadiumName>
+        <address>Birmingham Road</address>
+        <postCode>B71 4LF</postCode>
+        <city>West Bromwich</city>
+        <smalllogo>wbasmall.jpg</smalllogo>
+        <largelogo>wbalarge.jpg</largelogo>
+        <coord lat='52.510111' lon='-1.964714' />
+        <website>http://www.wba.co.uk/</website>
+    </club>
+    <club id='59'>
+        <teamName>West Ham United FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1895</formed>
+        <stadiumName>Boleyn Ground</stadiumName>
+        <address>Green Street</address>
+        <postCode>E13 9AZ</postCode>
+        <city>Londom</city>
+        <smalllogo>whufcsmall.jpg</smalllogo>
+        <largelogo>whufclarge.jpg</largelogo>
+        <coord lat='51.531745' lon='0.037327' />
+        <website>http://www.whufc.com/page/</website>
+    </club>
+    <club id='61'>
+        <teamName>Crystal Palace FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1905</formed>
+        <stadiumName>Selhurst Park</stadiumName>
+        <address>Whitehorse Lane</address>
+        <postCode>SE25 6PU</postCode>
+        <city>London</city>
+        <smalllogo>palacesmall.jpg</smalllogo>
+        <largelogo>palacelarge.jpg</largelogo>
+        <coord lat='51.398914' lon='-0.087502' />
+        <website>http://www.cpfc.co.uk/</website>
+    </club>
+    <club id='62'>
+        <teamName>Hull City FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet Championship</league>
+        <formed>1904</formed>
+        <stadiumName>The KC Stadium</stadiumName>
+        <address>Walton Street</address>
+        <postCode>HU3 6HU</postCode>
+        <city>Hull</city>
+        <smalllogo>hullsmall.jpg</smalllogo>
+        <largelogo>hulllarge.jpg</largelogo>
+        <coord lat='53.746961' lon='-0.374308' />
+        <website>http://www.hullcityafc.net/</website>
+    </club>
+    <club id='72'>
+        <teamName>Burnley FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet Championship</league>
+        <formed>1882</formed>
+        <stadiumName>Turf Moor</stadiumName>
+        <address>Harry Potts Way</address>
+        <postCode>BB10 4BX</postCode>
+        <city>Burnley</city>
+        <smalllogo>burnleysmall.jpg</smalllogo>
+        <largelogo>burnleylarge.jpg</largelogo>
+        <coord lat='53.788460' lon='-2.231113' />
+        <website>http://www.burnleyfootballclub.com/</website>
+    </club>
+    <club id='83'>
+        <teamName>Watford FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1881</formed>
+        <stadiumName>Vicarage Road</stadiumName>
+        <address>Vicarage Road</address>
+        <postCode>WD18 0ER</postCode>
+        <city>Watford</city>
+        <smalllogo>watfordsmall.jpg</smalllogo>
+        <largelogo>watfordlarge.jpg</largelogo>
+        <coord lat='51.650170' lon='-0.403233' />
+        <website>http://www.watfordfc.co.uk/</website>
+    </club>
+    <club id='84'>
+        <teamName>AFC Bournemouth</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1875</formed>
+        <stadiumName>Goldsnads Stadium</stadiumName>
+        <address>Kings Park</address>
+        <postCode>BH7 7AF</postCode>
+        <city>Bournemouth</city>
+        <smalllogo>bournemouthsmall.jpg</smalllogo>
+        <largelogo>bournemouthlarge.jpg</largelogo>
+        <coord lat='50.734651' lon='-1.840405' />
+        <website>http://www.afcb.co.uk</website>
+    </club>
+    <club id='78'>
+        <teamName>Leicester City FC</teamName>
+        <league logo='barclays.jpg'>Barclays Premier League</league>
+        <formed>1884</formed>
+        <stadiumName>King Power Stadium</stadiumName>
+        <address>Filbert Way</address>
+        <postCode>LE2 7FL</postCode>
+        <city>Leicester</city>
+        <smalllogo>lcfcsmall.jpg</smalllogo>
+        <largelogo>lcfclarge.jpg</largelogo>
+        <coord lat='52.620629' lon='-1.140153' />
+        <website>http://www.lcfc.co.uk/</website>
+    </club>
+    <club id='79'>
+        <teamName>Middlesbrough FC</teamName>
+        <league logo='barclays.jpg'>Sky Bet Championship</league>
+        <formed>1876</formed>
+        <stadiumName>Riverside Stadium</stadiumName>
+        <address>Shepherdson Way</address>
+        <postCode>TS3 6RS</postCode>
+        <city>Middlesbrough</city>
+        <smalllogo>boroughsmall.jpg</smalllogo>
+        <largelogo>boroughlarge.jpg</largelogo>
+        <coord lat='54.578475' lon='-1.219669' />
+        <website>http://www.mfc.co.uk/</website>
+    </club>
+    <!-- Championship -->
+    <club id='110'>
+        <teamName>Rotherham United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1870</formed>
+        <stadiumName>New York Stadium</stadiumName>
+        <address>New York Way</address>
+        <postCode>S60 1AH</postCode>
+        <city>Rotherham</city>
+        <smalllogo>rufcsmall.jpg</smalllogo>
+        <largelogo>rufclarge.jpg</largelogo>
+        <coord lat='53.428136' lon='-1.359987' />
+        <website>http://www.themillers.co.uk/</website>
+    </club>
+    <club id='100'>
+        <teamName>Preston North End FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1880</formed>
+        <stadiumName>Deepdale</stadiumName>
+        <address>Sir Tom Finney Way</address>
+        <postCode>PR1 6RU</postCode>
+        <city>Preston</city>
+        <smalllogo>pnesmall.jpg</smalllogo>
+        <largelogo>pnelarge.jpg</largelogo>
+        <coord lat='53.772296' lon='-2.690362' />
+        <website>http://www.pnefc.co.uk/</website>
+    </club>
+    <club id='47'>
+        <teamName>Fulham FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1879</formed>
+        <stadiumName>Craven Cottage</stadiumName>
+        <address>Stevenage Road</address>
+        <postCode>SW6 6HH</postCode>
+        <city>London</city>
+        <smalllogo>fulhamsmall.jpg</smalllogo>
+        <largelogo>fulhamlarge.jpg</largelogo>
+        <coord lat='51.474657' lon='-0.220361' />
+        <website>http://www.fulhamfc.com/</website>
+    </club>
+    <club id='51'>
+        <teamName>Newcastle United FC</teamName>
+        <league logo='efl.jpg'>Barclays Premier League</league>
+        <formed>1892</formed>
+        <stadiumName>Sports Direct Arena</stadiumName>
+        <address>Barrack Road</address>
+        <postCode>NE1 4ST</postCode>
+        <city>Newcastle Upon Tyne</city>
+        <smalllogo>toonsmall.jpg</smalllogo>
+        <largelogo>toonlarge.jpg</largelogo>
+        <coord lat='54.974765' lon='-1.623081' />
+        <website>http://www.nufc.co.uk/page/</website>
+    </club>
+    <club id='52'>
+        <teamName>Norwich City FC</teamName>
+        <league logo='efl.jpg'>Barclays Premier League</league>
+        <formed>1902</formed>
+        <stadiumName>Carrow Road</stadiumName>
+        <address>Carrow Road</address>
+        <postCode>NR1 1JE</postCode>
+        <city>Norwich</city>
+        <smalllogo>norwichsmall.jpg</smalllogo>
+        <largelogo>norwichlarge.jpg</largelogo>
+        <coord lat='52.622267' lon='1.311379' />
+        <website>http://www.canaries.co.uk/</website>
+    </club>
+    <club id='44'>
+        <teamName>Aston Villa FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1874</formed>
+        <stadiumName>Villa Park</stadiumName>
+        <address>Trinity Road</address>
+        <postCode>B6 6HE </postCode>
+        <city>Birmingham</city>
+        <smalllogo>villasmall.jpg</smalllogo>
+        <largelogo>villalarge.jpg</largelogo>
+        <coord lat='52.507924' lon='-1.883913' />
+        <website>http://www.avfc.co.uk</website>
+    </club>
+    <club id='60'>
+        <teamName>Cardiff City FC</teamName>
+        <league logo='efl.jpg'>Barclays Premier League</league>
+        <formed>1899</formed>
+        <stadiumName>Cardiff City Stadium</stadiumName>
+        <address>Leckwith Road</address>
+        <postCode>CF11 8AZ</postCode>
+        <city>Cardiff</city>
+        <smalllogo>cardiffsmall.jpg</smalllogo>
+        <largelogo>cardifflarge.jpg</largelogo>
+        <coord lat='51.473738' lon='-3.206118' />
+        <website>http://www.cardiffcityfc.co.uk/</website>
+    </club>
+    <club id='63'>
+        <teamName>Wigan Athletic FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1932</formed>
+        <stadiumName>DW Stadium</stadiumName>
+        <address>Stadium Way</address>
+        <postCode>WN5 0UZ</postCode>
+        <city>Wigan</city>
+        <smalllogo>wigansmall.jpg</smalllogo>
+        <largelogo>wiganlarge.jpg</largelogo>
+        <coord lat='53.548625' lon='-2.654725' />
+        <website>http://www.wiganlatics.co.uk/</website>
+    </club>
+    <club id='64'>
+        <teamName>Queens Park Rangers FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1882</formed>
+        <stadiumName>Loftus Road Stadium</stadiumName>
+        <address>South Africa Road</address>
+        <postCode>W12 7PJ</postCode>
+        <city>London</city>
+        <smalllogo>qprsmall.jpg</smalllogo>
+        <largelogo>qprlarge.jpg</largelogo>
+        <coord lat='51.509962' lon='-0.232081' />
+        <website>http://www.qpr.co.uk/</website>
+    </club>
+    <club id='65'>
+        <teamName>Reading FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1871</formed>
+        <stadiumName>Madejski Stadium</stadiumName>
+        <address>Hurst Road</address>
+        <postCode>RG2 0FL</postCode>
+        <city>Reading</city>
+        <smalllogo>readingsmall.jpg</smalllogo>
+        <largelogo>readinglarge.jpg</largelogo>
+        <coord lat='51.421142' lon='-0.982286' />
+        <website>http://www.readingfc.co.uk/</website>
+    </club>
+    <club id='66'>
+        <teamName>Barnsley FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1887</formed>
+        <stadiumName>Oakwell</stadiumName>
+        <address>Grove Street</address>
+        <postCode>S71 1ET</postCode>
+        <city>Barnsley</city>
+        <smalllogo>barnsleysmall.jpg</smalllogo>
+        <largelogo>barnsleylarge.jpg</largelogo>
+        <coord lat='53.551703' lon='-1.469350' />
+        <website>http://www.barnsleyfc.co.uk</website>
+    </club>
+    <club id='67'>
+        <teamName>Birmingham City FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1875</formed>
+        <stadiumName>St Andrews</stadiumName>
+        <address>St Andrew's Street</address>
+        <postCode>B9 4RL</postCode>
+        <city>Birmingham</city>
+        <smalllogo>birminghamsmall.jpg</smalllogo>
+        <largelogo>birminghamlarge.jpg</largelogo>
+        <coord lat='52.474420' lon='-1.868870' />
+        <website>http://www.bcfc.com</website>
+    </club>
+    <club id='68'>
+        <teamName>Balckburn Rovers FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1875</formed>
+        <stadiumName>Ewood Park</stadiumName>
+        <address>Bolton Road</address>
+        <postCode>BB2 4JF</postCode>
+        <city>Blackburn</city>
+        <smalllogo>blacksmall.jpg</smalllogo>
+        <largelogo>blacklarge.jpg</largelogo>
+        <coord lat='53.728511' lon='-2.491239' />
+        <website>http://www.rovers.co.uk/</website>
+    </club>
+    <club id='71'>
+        <teamName>Brighton &amp; Hove Albion FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1901</formed>
+        <stadiumName>American Express Community Stadium</stadiumName>
+        <address>Village Way</address>
+        <postCode>BN1 9BL</postCode>
+        <city>Brighton</city>
+        <smalllogo>brightonsmall.jpg</smalllogo>
+        <largelogo>brightonlarge.jpg</largelogo>
+        <coord lat='50.860352' lon='-0.083501' />
+        <website>http://www.seagulls.co.uk/</website>
+    </club>
+    <club id='74'>
+        <teamName>Derby County FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1884</formed>
+        <stadiumName>Pride Park Stadium</stadiumName>
+        <address>Derwent Parade</address>
+        <postCode>DE24 8XL</postCode>
+        <city>Derby</city>
+        <smalllogo>derbysmall.jpg</smalllogo>
+        <largelogo>derbylarge.jpg</largelogo>
+        <coord lat='52.914836' lon='-1.449672' />
+        <website>http://www.dcfc.co.uk/</website>
+    </club>
+    <club id='75'>
+        <teamName>Huddersfield Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1908</formed>
+        <stadiumName>John Smith's Stadium</stadiumName>
+        <address>Stadium Way</address>
+        <postCode>HD1 6PX</postCode>
+        <city>Huddersfield</city>
+        <smalllogo>hudssmall.jpg</smalllogo>
+        <largelogo>hudslarge.jpg</largelogo>
+        <coord lat='53.652139' lon='-1.771653' />
+        <website>http://www.htafc.com/</website>
+    </club>
+    <club id='76'>
+        <teamName>Ipswich Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1878</formed>
+        <stadiumName>Portman Road</stadiumName>
+        <address>Portman Road</address>
+        <postCode>IP1 2DA</postCode>
+        <city>Ipswich</city>
+        <smalllogo>ipswichsmall.jpg</smalllogo>
+        <largelogo>ipswichlarge.jpg</largelogo>
+        <coord lat='52.054924' lon='1.146285' />
+        <website>http://www.itfc.co.uk/</website>
+    </club>
+    <club id='77'>
+        <teamName>Leeds United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1919</formed>
+        <stadiumName>Elland Road</stadiumName>
+        <address>Elland Road</address>
+        <postCode>LS11 0ES</postCode>
+        <city>Leeds</city>
+        <smalllogo>leedssmall.jpg</smalllogo>
+        <largelogo>leedslarge.jpg</largelogo>
+        <coord lat='53.776966' lon='-1.571762' />
+        <website>http://www.leedsunited.com/</website>
+    </club>
+    <club id='81'>
+        <teamName>Nottingham Forest FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1865</formed>
+        <stadiumName>City Ground</stadiumName>
+        <address>Pavilion Road</address>
+        <postCode>NG2 5FJ</postCode>
+        <city>Nottinghan</city>
+        <smalllogo>nffcsmall.jpg</smalllogo>
+        <largelogo>nffclarge.jpg</largelogo>
+        <coord lat='52.938475' lon='-1.133729' />
+        <website>http://www.nottinghamforest.co.uk/</website>
+    </club>
+    <club id='82'>
+        <teamName>Sheffield Wednesday FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1867</formed>
+        <stadiumName>Hillsborough</stadiumName>
+        <address>Leppings Lane</address>
+        <postCode>S6 1SW</postCode>
+        <city>Sheffield</city>
+        <smalllogo>swfcsmall.jpg</smalllogo>
+        <largelogo>swfclarge.jpg</largelogo>
+        <coord lat='53.412032' lon='-1.502845' />
+        <website>http://www.swfc.co.uk/</website>
+    </club>
+    <club id='88'>
+        <teamName>Wolverhampton Wanderers</teamName>
+        <league logo='efl.jpg'>Barclays Premier League</league>
+        <formed>1877</formed>
+        <stadiumName>Molineux Stadium</stadiumName>
+        <address>Waterloo Road</address>
+        <postCode>WV1 4QR</postCode>
+        <city>Wolverhampton</city>
+        <smalllogo>wolvessmall.jpg</smalllogo>
+        <largelogo>wolveslarge.jpg</largelogo>
+        <coord lat='52.590378' lon='-2.132034' />
+        <website>http://www.wolves.co.uk/</website>
+    </club>
+    <club id='89'>
+        <teamName>Bristol City FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1897</formed>
+        <stadiumName>Ashton Gate</stadiumName>
+        <address>Ashton Road</address>
+        <postCode>BS3 2EJ</postCode>
+        <city>Bristol</city>
+        <smalllogo>bcitysmall.jpg</smalllogo>
+        <largelogo>bcitylarge.jpg</largelogo>
+        <coord lat='51.440962' lon='-2.621846' />
+        <website>http://www.bcfc.co.uk/</website>
+    </club>
+    <club id='90'>
+        <teamName>Brentford FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1889</formed>
+        <stadiumName>Griffin Park</stadiumName>
+        <address>Brook Road South</address>
+        <postCode>TW8 ONT</postCode>
+        <city>London</city>
+        <smalllogo>brentfordsmall.jpg</smalllogo>
+        <largelogo>brentfordlarge.jpg</largelogo>
+        <coord lat='51.487547' lon='-0.303939' />
+        <website>http://www.brentfordfc.co.uk</website>
+    </club>
+    <club id='114'>
+        <teamName>Burton albion FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1950</formed>
+        <stadiumName>Pirelli Stadium</stadiumName>
+        <address>Princess Way</address>
+        <postCode>DE13 0AR</postCode>
+        <city>Burton On Trent</city>
+        <smalllogo>basmall.jpg</smalllogo>
+        <largelogo>balarge.jpg</largelogo>
+        <coord lat='52.821686' lon='-1.628637' />
+        <website>http://www.burtonalbionfc.co.uk/</website>
+    </club>
+    <!-- Sky Bet League 1 -->
+    <club id='80'>
+        <teamName>Millwall FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1885</formed>
+        <stadiumName>The Den</stadiumName>
+        <address>Zampa Road</address>
+        <postCode>SE16 3LN</postCode>
+        <city>London</city>
+        <smalllogo>millwallsmall.jpg</smalllogo>
+        <largelogo>millwalllarge.jpg</largelogo>
+        <coord lat='51.485854' lon='-0.053589' />
+        <website>http://www.millwallfc.co.uk/</website>
+    </club>
+    <club id='117'>
+        <teamName>Chesterfield FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1919</formed>
+        <stadiumName>The Proact Stadium</stadiumName>
+        <address>Sheffield Road</address>
+        <postCode>S41 8NZ</postCode>
+        <city>Chesterfield</city>
+        <smalllogo>chestsmall.jpg</smalllogo>
+        <largelogo>chestlarge.jpg</largelogo>
+        <coord lat='53.253508' lon='-1.427566' />
+        <website>http://www.chesterfield-fc.co.uk/</website>
+    </club>
+    <club id='115'>
+        <teamName>Bury Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1887</formed>
+        <stadiumName>The Abbey Business Stadium</stadiumName>
+        <address>Whaddon Road</address>
+        <postCode>GL52 5NA</postCode>
+        <city>Cheltenham</city>
+        <smalllogo>ctsmall.jpg</smalllogo>
+        <largelogo>ctlarge.jpg</largelogo>
+        <coord lat='51.905341' lon='-2.061430' />
+        <website>http://www.ctfc.com/</website>
+    </club>
+    <club id='113'>
+        <teamName>Bristol Rovers FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1883</formed>
+        <stadiumName>Memorial Stadium</stadiumName>
+        <address>Filton Avenue</address>
+        <postCode>BS7 0BF</postCode>
+        <city>Bristol</city>
+        <smalllogo>brsmall.jpg</smalllogo>
+        <largelogo>brlarge.jpg</largelogo>
+        <coord lat='51.487241' lon='-2.583746' />
+        <website>http://www.bristolrovers.co.uk/</website>
+    </club>
+    <club id='73'>
+        <teamName>Charlton Athletic FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1905</formed>
+        <stadiumName>The Valley</stadiumName>
+        <address>Valley Grove</address>
+        <postCode>SE7 8BL</postCode>
+        <city>London</city>
+        <smalllogo>charltonsmall.jpg</smalllogo>
+        <largelogo>charltonlarge.jpg</largelogo>
+        <coord lat='51.486074' lon='0.034279' />
+        <website>http://www.cafc.co.uk/</website>
+    </club>
+    <club id='70'>
+        <teamName>Bolton Wanderers FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1874</formed>
+        <stadiumName>The Reebok Stadium</stadiumName>
+        <address>Burnden Way</address>
+        <postCode>BL6 6JW</postCode>
+        <city>Bolton</city>
+        <smalllogo>boltonsmall.jpg</smalllogo>
+        <largelogo>boltonlarge.jpg</largelogo>
+        <coord lat='53.578935' lon='-2.536455' />
+        <website>http://www.bwfc.co.uk/</website>
+    </club>
+    <club id='87'>
+        <teamName>Peterborough United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1934</formed>
+        <stadiumName>London Road</stadiumName>
+        <address>London Road</address>
+        <postCode>PE2 8AL</postCode>
+        <city>Peterborough</city>
+        <smalllogo>poshsmall.jpg</smalllogo>
+        <largelogo>poshlarge.jpg</largelogo>
+        <coord lat='52.565264' lon='-0.242242' />
+        <website>http://www.theposh.com/</website>
+    </club>
+    <club id='93'>
+        <teamName>Coventry City FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1883</formed>
+        <stadiumName>Ricoh Arena</stadiumName>
+        <address>Phoenix Way</address>
+        <postCode>CV6 6GE</postCode>
+        <city>Coventry</city>
+        <smalllogo>ccfcsmall.jpg</smalllogo>
+        <largelogo>ccfclarge.jpg</largelogo>
+        <coord lat='52.449356' lon='-1.498800' />
+        <website>http://www.ccfc.co.uk/</website>
+    </club>
+    <club id='97'>
+        <teamName>Milton Keynes Dons</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>2004</formed>
+        <stadiumName>Stadium MK</stadiumName>
+        <address>Grafton Street</address>
+        <postCode>MK1 1ST</postCode>
+        <city>Milton Keynes</city>
+        <smalllogo>mksmall.jpg</smalllogo>
+        <largelogo>mklarge.jpg</largelogo>
+        <coord lat='52.008754' lon='-0.737033' />
+        <website>http://www.mkdons.co.uk/</website>
+    </club>
+    <club id='99'>
+        <teamName>Oldham Athletic AFC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1895</formed>
+        <stadiumName>Boundary Park</stadiumName>
+        <address>Sheepfoot Lane</address>
+        <postCode>OL1 2PB</postCode>
+        <city>Oldham</city>
+        <smalllogo>oldhamsmall.jpg</smalllogo>
+        <largelogo>oldhamlarge.jpg</largelogo>
+        <coord lat='53.554532' lon='-2.127747' />
+        <website>http://www.oldhamathletic.co.uk/</website>
+    </club>
+    <club id='101'>
+        <teamName>Sheffield United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet Championship</league>
+        <formed>1889</formed>
+        <stadiumName>Bramall Lane</stadiumName>
+        <address>Bramall Lane</address>
+        <postCode>S2 4SU</postCode>
+        <city>Sheffield</city>
+        <smalllogo>susmall.jpg</smalllogo>
+        <largelogo>sularge.jpg</largelogo>
+        <coord lat='53.368992' lon='-1.471793' />
+        <website>http://www.sufc.co.uk/</website>
+    </club>
+    <club id='102'>
+        <teamName>Shrewsbury Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1886</formed>
+        <stadiumName>Greenhous Meadow</stadiumName>
+        <address>Oteley Road</address>
+        <postCode>SY2 6ST</postCode>
+        <city>Shrewsbury</city>
+        <smalllogo>shrewssmall.jpg</smalllogo>
+        <largelogo>shrewslarge.jpg</largelogo>
+        <coord lat='52.689612' lon='-2.745691' />
+        <website>http://www.shrewsburytown.com/</website>
+    </club>
+    <club id='104'>
+        <teamName>Swindon Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1879</formed>
+        <stadiumName>County Ground</stadiumName>
+        <address>County Road</address>
+        <postCode>SN1 2ED</postCode>
+        <city>Swindon</city>
+        <smalllogo>swindonsmall.jpg</smalllogo>
+        <largelogo>swindonlarge.jpg</largelogo>
+        <coord lat='51.563099' lon='-1.772553' />
+        <website>http://www.swindontownfc.co.uk/</website>
+    </club>
+    <club id='106'>
+        <teamName>Walsall FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1888</formed>
+        <stadiumName>Banks's Stadium</stadiumName>
+        <address>Bescot Crescent</address>
+        <postCode>WS1 4SA</postCode>
+        <city>Walsall</city>
+        <smalllogo>walsmall.jpg</smalllogo>
+        <largelogo>wallarge.jpg</largelogo>
+        <coord lat='52.566331' lon='-1.990920' />
+        <website>http://www.saddlers.co.uk/</website>
+    </club>
+    <club id='107'>
+        <teamName>Bradford City FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1903</formed>
+        <stadiumName>Coral Windows Stadium</stadiumName>
+        <address>Valley Parade</address>
+        <postCode>BD8 7DY</postCode>
+        <city>Bradford</city>
+        <smalllogo>bradfordsmall.jpg</smalllogo>
+        <largelogo>bradfordlarge.jpg</largelogo>
+        <coord lat='53.803623' lon='-1.761217' />
+        <website>http://www.bradfordcityfc.co.uk/</website>
+    </club>
+    <club id='108'>
+        <teamName>Gillingham FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1893</formed>
+        <stadiumName>Priestfield Stadium</stadiumName>
+        <address>Redfern Avenue</address>
+        <postCode>ME7 4DD</postCode>
+        <city>Gillingham</city>
+        <smalllogo>gillssmall.jpg</smalllogo>
+        <largelogo>gillslarge.jpg</largelogo>
+        <coord lat='51.384747' lon='0.559426' />
+        <website>http://www.gillinghamfootballclub.com/</website>
+    </club>
+    <club id='109'>
+        <teamName>Port Vale FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1876</formed>
+        <stadiumName>Vale Park</stadiumName>
+        <address>Hamil Road</address>
+        <postCode>ST6 1AW</postCode>
+        <city>Stoke-on-Trent</city>
+        <smalllogo>valesmall.jpg</smalllogo>
+        <largelogo>valelarge.jpg</largelogo>
+        <coord lat='53.048607' lon='-2.192044' />
+        <website>http://www.port-vale.co.uk/</website>
+    </club>
+    <club id='111'>
+        <teamName>AFC Wimbledon</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>2002</formed>
+        <stadiumName>Kingsmeadow</stadiumName>
+        <address>Cambridge Road</address>
+        <postCode>KT1 3PB</postCode>
+        <city>London</city>
+        <smalllogo>wimbledonsmall.jpg</smalllogo>
+        <largelogo>wimbledonlarge.jpg</largelogo>
+        <coord lat='51.406156' lon='-0.281129' />
+        <website>http://www.afcwimbledon.co.uk</website>
+    </club>
+    <club id='120'>
+        <teamName>Fleetwood Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1908</formed>
+        <stadiumName>Highbury Stadium</stadiumName>
+        <address>Park Avenue</address>
+        <postCode>FY7 6TX</postCode>
+        <city>Fleetwood</city>
+        <smalllogo>fleetsmall.jpg</smalllogo>
+        <largelogo>fleetlarge.jpg</largelogo>
+        <coord lat='53.916815' lon='-3.023349' />
+        <website>http://www.fleetwoodtownfc.com/</website>
+    </club>
+    <club id='125'>
+        <teamName>Northampton Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1897</formed>
+        <stadiumName>Sixfields Stadium</stadiumName>
+        <address>Upton Way</address>
+        <postCode>NN5 5QA</postCode>
+        <city>Northampton</city>
+        <smalllogo>northsmall.jpg</smalllogo>
+        <largelogo>northlarge.jpg</largelogo>
+        <coord lat='52.233872' lon='-0.935787' />
+        <website>http://www.ntfc.co.uk/</website>
+    </club>
+    <club id='126'>
+        <teamName>Oxford United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1893</formed>
+        <stadiumName>The Kassam Stadium</stadiumName>
+        <address>Grenoble Road</address>
+        <postCode>OX4 4XP</postCode>
+        <city>Oxford</city>
+        <smalllogo>oxfordsmall.jpg</smalllogo>
+        <largelogo>oxfordlarge.jpg</largelogo>
+        <coord lat='51.715555' lon='-1.208958' />
+        <website>http://www.oufc.co.uk/</website>
+    </club>
+    <club id='129'>
+        <teamName>Rochdale FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1907</formed>
+        <stadiumName>Spotland Stadium</stadiumName>
+        <address>Sandy Lane</address>
+        <postCode>OL11 5</postCode>
+        <city>Rochdale</city>
+        <smalllogo>rochsmall.jpg</smalllogo>
+        <largelogo>rochlarge.jpg</largelogo>
+        <coord lat='53.620034' lon='-2.180858' />
+        <website>http://www.rochdaleafc.co.uk/</website>
+    </club>
+    <club id='130'>
+        <teamName>Scunthorpe United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1899</formed>
+        <stadiumName>Glandford Park</stadiumName>
+        <address>Jack Brownsword Way</address>
+        <postCode>DN15 8TD</postCode>
+        <city>Scunthorpe</city>
+        <smalllogo>scunnysmall.jpg</smalllogo>
+        <largelogo>scunnylarge.jpg</largelogo>
+        <coord lat='53.587738' lon='-0.694390' />
+        <website>http://www.scunthorpe-united.co.uk/</website>
+    </club>
+    <club id='131'>
+        <teamName>Southend United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 1</league>
+        <formed>1906</formed>
+        <stadiumName>Roots Hall</stadiumName>
+        <address>Victoria Avenue</address>
+        <postCode>SS2 6NQ</postCode>
+        <city>Southend-on-Sea</city>
+        <smalllogo>sendsmall.jpg</smalllogo>
+        <largelogo>sendlarge.jpg</largelogo>
+        <coord lat='51.549605' lon='0.704109' />
+        <website>http://www.southendunited.co.uk/</website>
+    </club>
+    <!-- Sky Bet League 2 -->
+    <club id='103'>
+        <teamName>Stevenage FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1976</formed>
+        <stadiumName>Lamex Stadium</stadiumName>
+        <address>Broadhall Way</address>
+        <postCode>SG2 8RH</postCode>
+        <city>Stevenage</city>
+        <smalllogo>stevesmall.jpg</smalllogo>
+        <largelogo>stevelarge.jpg</largelogo>
+        <coord lat='51.887798' lon='-0.177521' />
+        <website>http://www.stevenagefc.com/</website>
+    </club>
+    <club id='98'>
+        <teamName>Notts County FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1862</formed>
+        <stadiumName>Meadow Lane</stadiumName>
+        <address>Meadow Lane</address>
+        <postCode>NG2 3HJ</postCode>
+        <city>Nottingham</city>
+        <smalllogo>ncfcsmall.jpg</smalllogo>
+        <largelogo>ncfclarge.jpg</largelogo>
+        <coord lat='52.942072' lon='-1.136033' />
+        <website>http://www.nottscountyfc.co.uk/</website>
+    </club>
+    <club id='94'>
+        <teamName>Crawley Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1896</formed>
+        <stadiumName>Broadfield Stadium</stadiumName>
+        <address>Winfield Way</address>
+        <postCode>RH11 9RX</postCode>
+        <city>Crawley</city>
+        <smalllogo>crawleysmall.jpg</smalllogo>
+        <largelogo>crawleylarge.jpg</largelogo>
+        <coord lat='51.100648' lon='-0.195079' />
+        <website />
+    </club>
+    <club id='95'>
+        <teamName>Crewe Alexandria FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1877</formed>
+        <stadiumName>The Alexandria Stadium</stadiumName>
+        <address>Gresty Road</address>
+        <postCode>CW2 6EB</postCode>
+        <city>Crewe</city>
+        <smalllogo>crewesmall.jpg</smalllogo>
+        <largelogo>crewelarge.jpg</largelogo>
+        <coord lat='53.086906' lon='-2.436782' />
+        <website>http://www.crewealex.net/</website>
+    </club>
+    <club id='96'>
+        <teamName>Leyton Orient</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1881</formed>
+        <stadiumName>Matchroom Stadium</stadiumName>
+        <address>Brisbane Road</address>
+        <postCode>E10 5NF</postCode>
+        <city>London</city>
+        <smalllogo>leytonsmall.jpg</smalllogo>
+        <largelogo>leytonlarge.jpg</largelogo>
+        <coord lat='51.560033' lon='-0.011426' />
+        <website>http://www.leytonorient.com/</website>
+    </club>
+    <club id='92'>
+        <teamName>Colchester United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1937</formed>
+        <stadiumName>Weston Homes Community Stadium</stadiumName>
+        <address>United Way</address>
+        <postCode>CO4 5UP</postCode>
+        <city>Colchester</city>
+        <smalllogo>colchsmall.jpg</smalllogo>
+        <largelogo>colchlarge.jpg</largelogo>
+        <coord lat='51.922479' lon='0.897085' />
+        <website>http://www.cu-fc.com/</website>
+    </club>
+    <club id='91'>
+        <teamName>Carlisle United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1904</formed>
+        <stadiumName>Brunton Park</stadiumName>
+        <address>Warwick Road</address>
+        <postCode>CA1 1LL</postCode>
+        <city>Carlisle</city>
+        <smalllogo>carlislesmall.jpg</smalllogo>
+        <largelogo>carlislelarge.jpg</largelogo>
+        <coord lat='54.894455' lon='-2.914541' />
+        <website>http://www.carlisleunited.co.uk/</website>
+    </club>
+    <club id='69'>
+        <teamName>Blackpool FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1887</formed>
+        <stadiumName>Bloomfield Road</stadiumName>
+        <address>Seasiders Way</address>
+        <postCode>FY1 6JJ</postCode>
+        <city>Blackpool</city>
+        <smalllogo>bpoolsmall.jpg</smalllogo>
+        <largelogo>bpoollarge.jpg</largelogo>
+        <coord lat='53.804198' lon='-3.049409' />
+        <website>http://www.blackpoolfc.co.uk/</website>
+    </club>
+    <club id='112'>
+        <teamName>Accrington Stanley FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1968</formed>
+        <stadiumName>Crown Ground</stadiumName>
+        <address>Livingstone Road</address>
+        <postCode>BB5 5BX</postCode>
+        <city>Accrington</city>
+        <smalllogo>stanleysmall.jpg</smalllogo>
+        <largelogo>stanleylarge.jpg</largelogo>
+        <coord lat='53.764517' lon='-2.369805' />
+        <website>http://www.accringtonstanley.co.uk</website>
+    </club>
+    <club id='116'>
+        <teamName>Cheltenham Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1887</formed>
+        <stadiumName>The Abbey Business Stadium</stadiumName>
+        <address>Whaddon Road</address>
+        <postCode>GL52 5NA</postCode>
+        <city>Cheltenham</city>
+        <smalllogo>ctsmall.jpg</smalllogo>
+        <largelogo>ctlarge.jpg</largelogo>
+        <coord lat='51.905341' lon='-2.061430' />
+        <website>http://www.ctfc.com/</website>
+    </club>
+    <club id='119'>
+        <teamName>Exeter City FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1904</formed>
+        <stadiumName>St James Park</stadiumName>
+        <address>St James Road</address>
+        <postCode>EX4 6PX</postCode>
+        <city>Exeter</city>
+        <smalllogo>exetersmall.jpg</smalllogo>
+        <largelogo>exeterlarge.jpg</largelogo>
+        <coord lat='50.729939' lon='-3.521210' />
+        <website>http://www.exetercityfc.co.uk/</website>
+    </club>
+    <club id='121'>
+        <teamName>Hartlepool United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1908</formed>
+        <stadiumName>Victoria Park</stadiumName>
+        <address>Clarence Road</address>
+        <postCode>TS24 8BZ</postCode>
+        <city>Hartlepool</city>
+        <smalllogo>hufcsmall.jpg</smalllogo>
+        <largelogo>hufclarge.jpg</largelogo>
+        <coord lat='54.688684' lon='-1.211610' />
+        <website>http://www.hartlepoolunited.co.uk/</website>
+    </club>
+    <club id='122'>
+        <teamName>Morecambe FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1920</formed>
+        <stadiumName>The Globe Arena</stadiumName>
+        <address>Christie Way</address>
+        <postCode>LA4 4TB</postCode>
+        <city>Morecambe</city>
+        <smalllogo>moresmall.jpg</smalllogo>
+        <largelogo>morelarge.jpg</largelogo>
+        <coord lat='54.067712' lon='-2.845113' />
+        <website>http://www.morecambefc.com/</website>
+    </club>
+    <club id='123'>
+        <teamName>Mansfield Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1897</formed>
+        <stadiumName>Sixfields Stadium</stadiumName>
+        <address>Upton Way</address>
+        <postCode>NN5 5QA</postCode>
+        <city>Northampton</city>
+        <smalllogo>northsmall.jpg</smalllogo>
+        <largelogo>northlarge.jpg</largelogo>
+        <coord lat='52.233872' lon='-0.935787' />
+        <website>http://www.ntfc.co.uk/</website>
+    </club>
+    <club id='124'>
+        <teamName>Newport County FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1897</formed>
+        <stadiumName>Sixfields Stadium</stadiumName>
+        <address>Upton Way</address>
+        <postCode>NN5 5QA</postCode>
+        <city>Northampton</city>
+        <smalllogo>northsmall.jpg</smalllogo>
+        <largelogo>northlarge.jpg</largelogo>
+        <coord lat='52.233872' lon='-0.935787' />
+        <website>http://www.ntfc.co.uk/</website>
+    </club>
+    <club id='127'>
+        <teamName>Plymouth Argyle FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1886</formed>
+        <stadiumName>Home Park</stadiumName>
+        <address>Gilbert Lane</address>
+        <postCode>PL2 3DQ</postCode>
+        <city>Plymouth</city>
+        <smalllogo>plymouthsmall.jpg</smalllogo>
+        <largelogo>plymouthlarge.jpg</largelogo>
+        <coord lat='50.386714' lon='-4.152140' />
+        <website>http://www.pafc.co.uk/</website>
+    </club>
+    <club id='128'>
+        <teamName>Portsmouth FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1898</formed>
+        <stadiumName>Fratton Park</stadiumName>
+        <address>Fratton Way</address>
+        <postCode>PO4 8RA</postCode>
+        <city>Portsmouth</city>
+        <smalllogo>pompeysmall.jpg</smalllogo>
+        <largelogo>pompeylarge.jpg</largelogo>
+        <coord lat='50.796177' lon='-1.066995' />
+        <website>http://www.portsmouthfc.co.uk/</website>
+    </club>
+    <club id='133'>
+        <teamName>Wycombe Wanderers FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1887</formed>
+        <stadiumName>Adams Park</stadiumName>
+        <address>Hillbottom Road</address>
+        <postCode>HP12 4HJ</postCode>
+        <city>Wycombe</city>
+        <smalllogo>wwsmall.jpg</smalllogo>
+        <largelogo>wwlarge.jpg</largelogo>
+        <coord lat='51.631378' lon='-0.797204' />
+        <website>http://www.wwfc.com/</website>
+    </club>
+    <club id='85'>
+        <teamName>Doncaster Rovers FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1879</formed>
+        <stadiumName>Keepmoat Stadium</stadiumName>
+        <address>Stadium Way</address>
+        <postCode>DN4 5JW</postCode>
+        <city>Doncaster</city>
+        <smalllogo>donnysmall.jpg</smalllogo>
+        <largelogo>donnylarge.jpg</largelogo>
+        <coord lat='53.509360' lon='-1.115651' />
+        <website>http://www.doncasterroversfc.co.uk/</website>
+    </club>
+    <club id='86'>
+        <teamName>Yeovil Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1895</formed>
+        <stadiumName>Huish Park</stadiumName>
+        <address>Lufton Way</address>
+        <postCode>BA22 8YF</postCode>
+        <city>Yeovil</city>
+        <smalllogo>yeosmall.jpg</smalllogo>
+        <largelogo>yeolarge.jpg</largelogo>
+        <coord lat='50.951146' lon='-2.675876' />
+        <website>http://www.ytfc.net/</website>
+    </club>
+    <club id='138'>
+        <teamName>Barnet FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1888</formed>
+        <stadiumName>Underhill Stadium</stadiumName>
+        <address>Barnet Lane</address>
+        <postCode>EN5 2DN</postCode>
+        <city>Barnet</city>
+        <smalllogo>barnetsmall.jpg</smalllogo>
+        <largelogo>barnetlarge.jpg</largelogo>
+        <coord lat='51.647006' lon='-0.192550' />
+        <website>http://www.barnetfc.com/</website>
+    </club>
+    <club id='139'>
+        <teamName>Cambridge United FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1912</formed>
+        <stadiumName>Abbey Stadium</stadiumName>
+        <address>Newmarket Road</address>
+        <postCode>CB5 8LN</postCode>
+        <city>Cambridge</city>
+        <smalllogo>cusmall.jpg</smalllogo>
+        <largelogo>cularge.jpg</largelogo>
+        <coord lat='52.213398' lon='0.154418' />
+        <website>http://www.cambridge-united.co.uk/index.aspx</website>
+    </club>
+    <club id='145'>
+        <teamName>Grimsby Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1878</formed>
+        <stadiumName>Blundell Park</stadiumName>
+        <address>Harrington Street</address>
+        <postCode>DN35 7PY</postCode>
+        <city>Cleethorpes</city>
+        <smalllogo>grimsbysmall.jpg</smalllogo>
+        <largelogo>grimsbylarge.jpg</largelogo>
+        <coord lat='53.571061' lon='-0.046405' />
+        <website>http://www.grimsby-townfc.co.uk/</website>
+    </club>
+    <club id='150'>
+        <teamName>Luton Town FC</teamName>
+        <league logo='efl.jpg'>Sky Bet League 2</league>
+        <formed>1885</formed>
+        <stadiumName>Kenilworth Road</stadiumName>
+        <address>1 Maple Road</address>
+        <postCode>LU48AW</postCode>
+        <city>Luton</city>
+        <smalllogo>lutonsmall.jpg</smalllogo>
+        <largelogo>lutonlarge.jpg</largelogo>
+        <coord lat='51.883890' lon='-0.433159' />
+        <website>http://www.lutontown.co.uk/</website>
+    </club>
+</clubs>

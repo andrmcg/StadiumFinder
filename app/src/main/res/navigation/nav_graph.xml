@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/leagueFragment">
+
+    <fragment
+        android:id="@+id/leagueFragment"
+        android:name="com.mcgregor.burns.stadiumfinder.LeagueFragment"
+        android:label="Leagues"
+        tools:layout="@layout/fragment_league" >
+        <action
+            android:id="@+id/action_leagueFragment_to_clubsFragment"
+            app:destination="@id/clubsFragment" />
+        <argument
+            android:name="leagueName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/clubsFragment"
+        android:name="com.mcgregor.burns.stadiumfinder.ClubsFragment"
+        android:label="Clubs"
+        tools:layout="@layout/fragment_clubs">
+        <argument
+            android:name="leagueName"
+            app:argType="string" />
+    </fragment>
+</navigation>
