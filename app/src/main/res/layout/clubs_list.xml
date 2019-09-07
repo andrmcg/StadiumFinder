@@ -15,10 +15,11 @@
         android:contentDescription="@string/club_logo"
         tools:srcCompat="@tools:sample/avatars" />
 
-    <TextView
+    <com.google.android.material.textview.MaterialTextView
         android:id="@+id/teamnameTextview"
         android:layout_width="match_parent"
         android:layout_height="50dp"
+        style="@style/Widget.MaterialComponents.TextView"
         android:gravity="center_vertical"
         android:paddingStart="12dp"
         android:paddingEnd="12dp"

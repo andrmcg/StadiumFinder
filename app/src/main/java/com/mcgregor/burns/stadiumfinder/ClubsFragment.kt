@@ -11,7 +11,7 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProviders
+import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.NavController
 import androidx.navigation.fragment.findNavController
 import com.mcgregor.burns.stadiumfinder.adapters.ClubAdapter
@@ -44,7 +44,9 @@ class ClubsFragment : Fragment() {
 
         navController = findNavController()
 
-        viewmodel = ViewModelProviders.of(this).get(ClubViewModel::class.java)
+        viewmodel = ViewModelProvider(this).get(ClubViewModel::class.java)
+
+        //viewmodel = ViewModelProviders.of(this).get(ClubViewModel::class.java)
         viewmodel.clubs.observe(this, Observer { c ->
             c.let {
                 val league = arguments?.getString("leagueName")

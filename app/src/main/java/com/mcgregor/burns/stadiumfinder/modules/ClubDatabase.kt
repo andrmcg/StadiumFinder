@@ -14,7 +14,7 @@ import kotlinx.coroutines.launch
 import org.w3c.dom.Element
 import javax.xml.parsers.DocumentBuilderFactory
 
-@Database(entities = [Club::class, League::class], version = 1)
+@Database(entities = [Club::class, League::class], version = 1, exportSchema = false)
 abstract class ClubDatabase : RoomDatabase() {
 
     abstract fun dao(): ClubDao
